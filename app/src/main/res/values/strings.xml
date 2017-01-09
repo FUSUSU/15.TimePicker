@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">15. TimePicker</string>
+    <string name="textView1">Current Time: </string>
+    <string name="button1">Change Time</string>
 </resources>
